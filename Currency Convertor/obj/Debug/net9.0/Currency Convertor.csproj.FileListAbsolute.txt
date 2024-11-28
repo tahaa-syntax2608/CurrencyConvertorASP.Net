@@ -1,0 +1,148 @@
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\appsettings.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Currency Convertor.staticwebassets.runtime.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Currency Convertor.staticwebassets.endpoints.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Currency Convertor.exe
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Currency Convertor.deps.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Currency Convertor.runtimeconfig.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Currency Convertor.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Currency Convertor.pdb
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.AssemblyInfoInputs.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.AssemblyInfo.cs
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.RazorAssemblyInfo.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.RazorAssemblyInfo.cs
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\scopedcss\bundle\Currency Convertor.styles.css
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\scopedcss\projectbundle\Currency Convertor.bundle.scp.css
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\9q7lriypg7-b9sayid5wm.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\1djzpeql7j-61n19gt1b8.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\gw9c7b3zaf-xtxxf3hu2r.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\rvwwcwmn7z-bqjiyaj88i.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\b0bhyfnzjl-c2jlpeoesf.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\g7lofvfgmk-erw9l3u2r3.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\ahl1ygh9l0-aexeepp0ev.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\uarujy3dlp-d7shbmvgxk.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\4d5xhsbrfo-ausgxo2sd3.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\1wz0dni2r2-k8d9w2qqmf.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\8vej5w9owf-cosvhxvwiu.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\b7encz8d95-ub07r2b239.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\qz1spemgov-fvhpjtyr6v.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\v31fdwmqj1-b7pk76d08c.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\pphufhfbas-fsbi9cje9m.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\u2i4qtvn1a-rzd6atqjts.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\hweptnjoof-ee0r1s7dh0.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\8e3jbewjjk-dxx9fxp4il.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\kq7fa5uc4c-jd9uben2k1.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\z7f1dtqkwa-khv3u5hwcm.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\eyh3sxh8j3-r4e9w2rdcm.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\g70whc3p6w-lcd1t2u6c8.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\amfzs54ykr-c2oey78nd0.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\g5wwv55bgu-tdbxkamptv.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\5inr0wtnw4-j5mq2jizvt.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\aw6dnnbr7g-06098lyss8.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\eurh77ot1v-nvvlpmu67g.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\s8aerxk0w8-s35ty4nyc5.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\79kf1uncb7-pj5nd1wqec.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\fwpoxnu4dz-46ein0sx1k.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\wnw8fjsbh7-v0zj4ognzu.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\s32d2qvqc6-37tfw0ft22.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\kdzd2g34qk-hrwsygsryq.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\pqlsxggiib-pk9g2wxc8p.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\thejt7ihez-ft3s53vfgj.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\snmo5qk80o-6cfz1n2cew.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\2wgxt4bqhf-6pdc2jztkx.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\kvyjrejlm5-493y06b0oq.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\lno7m8dga1-iovd86k7lj.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\8j2qm2d972-vr1egmr9el.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\xzp2kpinbi-kbrnm935zg.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\7xb6v64tdq-jj8uyg4cgr.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\7xhox4ql4g-y7v9cxd14o.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\7ffema9v3f-notf2xhcfb.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\23x9ut2s5k-h1s4sie4z3.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\2kvxiwjnfy-63fj8s7r0e.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\6jq7edwee6-0j3bgjxly4.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\etljlxp3kj-47otxtyo56.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\j0ecafymb0-4v8eqarkd7.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\he911gmcl6-356vix0kms.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\atj373kgl4-83jwlth58m.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\l2xn3ypsz6-mrlpezrjn3.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\swp9a93b3h-lzl9nlhx6b.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\qlfs0kc4pe-ag7o75518u.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\3r99b8mej7-x0q3zqp4vz.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\3rttktov9b-0i3buxo5is.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\ovfoc36d1j-o1o13a6vjx.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\wd74bychcj-ttgo8qnofa.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\n6e00dvf54-2z0ns9nrw6.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\81satlhmsv-muycvpuwrr.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\4sk45gilq4-87fc7y1x7t.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\hd9b8y0pja-mlv21k5csn.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\y4cj3147x1-d9wc4m1twv.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\compressed\pb8pkeawck-d9wc4m1twv.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets\msbuild.Currency Convertor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets\msbuild.Currency Convertor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets\msbuild.build.Currency Convertor.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Currency Convertor.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Currency Convertor.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\refint\Currency Convertor.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.pdb
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.genruntimeconfig.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\ref\Currency Convertor.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency Convertor.csproj.AssemblyReference.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\Currency Convertor\Currency Convertor\obj\Debug\net9.0\Currency.F9AF1590.Up2Date

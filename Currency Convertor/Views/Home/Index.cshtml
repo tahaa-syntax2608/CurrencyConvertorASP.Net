@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Currency Converter";
+}
+
+<h2>Currency Converter</h2>
+
+@using (Html.BeginForm("ConvertCurrency", "CurrencyConverter", FormMethod.Post))
+{
+    <div>
+        <label for="amount">Amount In PKR:</label>
+        <input type="text" id="amount" name="amount" />
+    </div>
+    <div>
+        <label for="targetCurrency">Target Currency:</label>
+        <select id="targetCurrency" name="targetCurrency">
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+            <option value="JPY">JPY</option>
+        </select>
+    </div>
+    <div>
+        <input type="submit" value="Convert" />
+    </div>
+}
+
+@if (ViewBag.ConvertedAmount != null)
+{
+    <div>
+        <h3>Converted Amount: @ViewBag.ConvertedAmount @ViewBag.TargetCurrency</h3>
+    </div>
+}
